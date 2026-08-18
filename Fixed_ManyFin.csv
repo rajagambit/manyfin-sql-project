@@ -1,0 +1,42 @@
+Ticket ID,Issue Type,Created Date,Resolution Date,SLA Target,Escalation Level,Refund Amount,Resolution Time Hours
+MARV-10001,FX Weekend Surcharge Dispute,2026-06-15 08:47:00,2026-06-16 14:55:00,24,Complaints Team,26.40,30.13
+MARV-10002,FX Exchange Rate Slip Dispute,2026-06-28 15:32:00,2026-07-01 16:44:00,120,Complaints Team,134.21,73.2
+MARV-10003,Card Transfer FX Rate Mismatch,2026-06-01 13:44:00,2026-06-03 02:53:00,48,Complaints Team,0.00,37.15
+MARV-10004,FX Exchange Rate Slip Dispute,2026-06-12 20:06:00,2026-06-14 18:44:00,72,Complaints Team,247.10,46.63
+MARV-10005,Merger Corporate Action Entitlement,2026-06-12 01:18:00,2026-06-15 11:14:00,72,Tier 2 Escalations,0.00,81.93
+MARV-10006,Options Contract Settlement Error,2026-06-09 09:42:00,2026-06-11 00:47:00,48,Tier 1 Support,210.87,39.08
+MARV-10007,Card Transfer FX Rate Mismatch,2026-07-17 13:23:00,2026-07-21 04:40:00,24,Tier 2 Escalations,0.00,87.28
+MARV-10008,Account Blocked - AML Verification,2026-07-02 13:29:00,2026-07-06 01:13:00,48,Compliance & Risk,0.00,83.73
+MARV-10009,Card Transfer FX Rate Mismatch,2026-06-08 15:52:00,NULL,72,Compliance & Risk,0.00,NULL
+MARV-10010,External Crypto Wallet Transfer Delay,2026-06-09 14:58:00,2026-06-13 12:18:00,48,Compliance & Risk,0.00,93.33
+MARV-10011,Merger Corporate Action Entitlement,2026-07-29 12:16:00,2026-08-02 13:51:00,72,Compliance & Risk,0.00,97.58
+MARV-10012,Crypto Withdrawal Security Hold,2026-07-22 19:14:00,2026-07-23 14:46:00,120,Tier 2 Escalations,0.00,19.53
+MARV-10013,Goodwill Refund Request,2026-06-07 11:09:00,2026-06-11 18:52:00,120,Complaints Team,273.20,103.72
+MARV-10014,Flexible Account Interest Discrepancy,2026-08-07 16:35:00,2026-08-07 20:18:00,24,Complaints Team,161.33,3.72
+MARV-10015,External Crypto Wallet Transfer Delay,2026-07-26 13:29:00,NULL,72,Tier 2 Escalations,0.00,NULL
+MARV-10016,Account Blocked - AML Verification,2026-06-15 04:19:00,2026-06-17 22:57:00,48,Tier 2 Escalations,0.00,66.63
+MARV-10017,Stock Split Fractional Share Adjustment,2026-06-22 01:49:00,2026-06-22 04:27:00,72,Compliance & Risk,0.00,2.63
+MARV-10018,Crypto Staking Reward Failure,2026-06-15 19:56:00,2026-06-20 05:15:00,48,Tier 1 Support,0.00,105.32
+MARV-10019,Account Blocked - KYC Renewal,2026-06-11 10:46:00,2026-06-11 21:34:00,48,Tier 2 Escalations,0.00,10.8
+MARV-10020,FX Weekend Surcharge Dispute,2026-08-01 01:10:00,2026-08-04 08:37:00,48,Complaints Team,187.06,79.45
+MARV-10021,FX Weekend Surcharge Dispute,2026-07-18 22:57:00,2026-07-19 16:12:00,48,Complaints Team,0.00,17.25
+MARV-10022,Crypto Withdrawal Security Hold,2026-08-10 15:37:00,2026-08-11 03:22:00,24,Tier 2 Escalations,0.00,11.75
+MARV-10023,FX Exchange Rate Slip Dispute,2026-06-05 18:04:00,2026-06-07 07:46:00,120,Complaints Team,328.97,37.7
+MARV-10024,Crypto Withdrawal Security Hold,2026-07-31 15:50:00,2026-08-02 22:02:00,24,Tier 2 Escalations,0.00,54.2
+MARV-10025,FX Weekend Surcharge Dispute,2026-07-26 19:27:00,2026-07-30 18:30:00,24,Complaints Team,160.94,95.05
+MARV-10026,Card Transfer FX Rate Mismatch,2026-06-14 15:12:00,2026-06-17 02:20:00,120,Tier 2 Escalations,0.00,59.13
+MARV-10027,External Crypto Wallet Transfer Delay,2026-07-30 15:55:00,2026-08-02 02:46:00,24,Tier 1 Support,0.00,58.85
+MARV-10028,FX Weekend Surcharge Dispute,2026-08-09 08:05:00,2026-08-13 22:20:00,48,Tier 2 Escalations,106.01,110.25
+MARV-10029,Merger Corporate Action Entitlement,2026-06-08 13:24:00,NULL,120,Complaints Team,0.00,NULL
+MARV-10030,Goodwill Refund Request,2026-07-29 17:27:00,2026-08-02 17:17:00,120,Complaints Team,0.00,95.83
+MARV-10031,Account Blocked - KYC Renewal,2026-06-09 02:47:00,2026-06-13 04:07:00,24,Tier 2 Escalations,0.00,97.33
+MARV-10032,Crypto Withdrawal Security Hold,2026-08-02 00:58:00,2026-08-02 23:01:00,24,Tier 2 Escalations,0.00,22.05
+MARV-10033,FX Exchange Rate Slip Dispute,2026-06-10 05:55:00,2026-06-10 23:51:00,48,Complaints Team,195.91,17.93
+MARV-10034,Crypto Withdrawal Security Hold,2026-08-06 18:59:00,2026-08-10 10:44:00,72,Tier 2 Escalations,0.00,87.75
+MARV-10035,External Crypto Wallet Transfer Delay,2026-07-21 12:42:00,2026-07-24 01:02:00,24,Tier 1 Support,0.00,60.33
+MARV-10036,Flexible Account Interest Discrepancy,2026-06-13 10:34:00,2026-06-14 21:42:00,72,Tier 1 Support,174.17,35.13
+MARV-10037,Unexecuted Limit Order Error,2026-07-28 01:45:00,2026-08-01 11:26:00,24,Complaints Team,57.82,105.68
+MARV-10038,Unexecuted Limit Order Error,2026-07-04 11:56:00,2026-07-07 12:05:00,72,Complaints Team,326.46,72.15
+MARV-10039,Account Blocked - KYC Renewal,2026-07-05 00:31:00,2026-07-09 14:34:00,24,Compliance & Risk,0.00,110.05
+MARV-10040,Card Transfer FX Rate Mismatch,2026-07-06 09:00:00,2026-07-07 03:40:00,72,Tier 2 Escalations,0.00,18.67
+MARV-10041,Options Contract Settlement Error,2026-07-28 01:45:00,2026-07-28 04:52:00,24,Tier 2 Escalations,377.64,3.12
