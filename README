@@ -1,2 +1,45 @@
-# manyfin-sql-project
-SQL analysis of FinTech complaint operations data — SLA breach, refund impact, escalation trends
+# ManyFin SQL Complaint Operations Analysis
+
+## Project Overview
+SQL analysis of a mock FinTech complaint operations dataset modelled on 
+real Tier 2 support workflows in regulated financial environments 
+(crypto, FX, equities). Built as part of a career transition portfolio 
+targeting CRM Automation and Ops Analyst roles.
+
+## Dataset
+- **File:** Fixed_ManyFin.csv
+- **Rows:** 41 tickets
+- **Period:** June–August 2026
+- **Columns:** ticket_id, issue_type, created_date, resolution_date, 
+  sla_target, escalation_level, refund_amount, resolution_time
+
+## Business Questions Answered
+
+| Query | Business Question | Key Finding |
+|---|---|---|
+| 1 | What % of tickets breached SLA? | 50% breach rate (19/38 resolved) |
+| 2 | Which issues escalate most? | Crypto Withdrawal hit Tier 2 most (5 tickets) |
+| 3 | Which issues cost most in refunds? | FX Exchange Rate Slip: total 906.19 |
+| 4 | How did volume trend monthly? | July had worst resolution time (65.29h avg) |
+| 5 | Which escalation level is slowest? | Compliance & Risk: 77.46h average |
+
+## SQL Concepts Used
+SELECT, FROM, WHERE, GROUP BY, ORDER BY, COUNT, SUM, AVG, MIN, MAX,
+ROUND, CASE WHEN, IS NOT NULL, CAST, strftime, AS
+
+## Files
+- `query1_sla_breach_rate.sql`
+- `query2_escalation_frequency.sql`
+- `query3_refund_by_issue_type.sql`
+- `query4_monthly_trend.sql`
+- `query5_resolution_by_escalation.sql`
+- `Fixed_ManyFin.csv` — source dataset
+
+## Tools Used
+- SQLite via SQLiteOnline.com
+- Google Sheets (dataset preparation)
+
+## Author
+Rajarathinam Ramesh — FinTech Operations Specialist transitioning to 
+CRM Automation and Data Analytics
+LinkedIn: linkedin.com/in/rajarathinam-r-3a1766117
